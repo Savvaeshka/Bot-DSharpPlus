@@ -1,3 +1,3 @@
 # Bot-in-the-language-DSharpPlus
-DSharpPlus
+# DSharpPlus
 github.com/DSharpPlus/DSharpPlus <- Use this
